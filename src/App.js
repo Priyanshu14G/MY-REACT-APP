@@ -2,7 +2,7 @@
 import Navbar from './components/Navbar';
 import Bestform from './components/Bestform';
 import About from './components/About';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
